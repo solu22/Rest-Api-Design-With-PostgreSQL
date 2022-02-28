@@ -1,0 +1,8 @@
+
+POST http://localhost:3000/dogs
+Content-Type: application/json
+
+{
+    "breed": "husky",
+    "address": "Turku"
+}
